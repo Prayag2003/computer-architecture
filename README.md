@@ -31,9 +31,9 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | 4 | Types of System Buses | [04-system-buses.md](notes/04-system-buses.md) |
 | 5 | Common Bus System Using Multiplexers | [05-common-bus-systems.md](notes/05-common-bus-systems.md) |
 | 6 | Basic Computer Architecture and Bus in Action | [06-basic-computer-architecture.md](notes/06-basic-computer-architecture.md) |
-| 7 | Timing and Control | Coming soon |
-| 8 | Register Transfer Language | Coming soon |
-| 9 | Bus and Memory Transfers | Coming soon |
+| 7 | Types of Instructions | [07-types-of-instructions.md](notes/07-types-of-instructions.md) |
+| 8 | Data Transfer Instructions | [08-data-transfer-instructions.md](notes/08-data-transfer-instructions.md) |
+| 9 | Arithmetic Instructions (Data Manipulation) | [09-arithmetic-instructions.md](notes/09-arithmetic-instructions.md) |
 | 10 | Micro-operations (Arithmetic, Logic, Shift) | Coming soon |
 | 11 | Memory Organization | Coming soon |
 | 12 | Cache Memory | Coming soon |
@@ -60,6 +60,10 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | Common bus system | MUXes select which register outputs to shared bus | Video 5 |
 | Bus select codes | 001=AR, 010=PC, 011=DR, 100=AC, 101=IR, 110=TR, 111=Mem | Video 6 |
 | One-address instructions | AC is always one operand, instruction gives the other | Video 6 |
+| Three instruction types | Data Transfer, Data Manipulation, Program Control | Video 7 |
+| Data transfer commands | LOAD, STORE, MOV, PUSH, POP, IN, OUT (move without changing) | Video 8 |
+| Arithmetic instructions | ADD, SUB, MUL, DIV, INC, DEC, ADDC, NEGATE | Video 9 |
+| Instruction vs micro-op | 1 instruction = many micro-operations (fetch, decode, execute...) | Video 9 |
 
 ## Reference list
 
