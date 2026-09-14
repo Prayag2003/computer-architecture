@@ -29,8 +29,8 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | 2 | Von Neumann Architecture and Stored Program | [02-von-neumann.md](notes/02-von-neumann.md) |
 | 3 | General Purpose Registers | [03-registers.md](notes/03-registers.md) |
 | 4 | Types of System Buses | [04-system-buses.md](notes/04-system-buses.md) |
-| 5 | Instruction Format and Addressing Modes | Coming soon |
-| 6 | Computer Instructions and Instruction Types | Coming soon |
+| 5 | Common Bus System Using Multiplexers | [05-common-bus-systems.md](notes/05-common-bus-systems.md) |
+| 6 | Basic Computer Architecture and Bus in Action | [06-basic-computer-architecture.md](notes/06-basic-computer-architecture.md) |
 | 7 | Timing and Control | Coming soon |
 | 8 | Register Transfer Language | Coming soon |
 | 9 | Bus and Memory Transfers | Coming soon |
@@ -57,8 +57,12 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | Instruction format | I bit + opcode + address | Video 3 |
 | System buses | Address (where), Data (what), Control (how) | Video 4 |
 | Address bus capacity | 2^k locations for k-bit address bus | Video 4 |
+| Common bus system | MUXes select which register outputs to shared bus | Video 5 |
+| Bus select codes | 001=AR, 010=PC, 011=DR, 100=AC, 101=IR, 110=TR, 111=Mem | Video 6 |
+| One-address instructions | AC is always one operand, instruction gives the other | Video 6 |
 
 ## Reference list
 
 - [NOTES_GUIDE.md](NOTES_GUIDE.md) - Template and style rules for creating notes
 - [notes/](notes/) - All video-wise topic notes
+- [public/](public/) - Lecture screenshots and reference images

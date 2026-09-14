@@ -13,11 +13,14 @@ Create easy to understand, college level notes for Computer Architecture and Org
 - Do not use LaTeX math notation. Write `2^12 = 4096` instead of `\(2^{12}\)`
 - Keep the tone clear, readable, and exam friendly
 - Include analogies and memory tricks where helpful
+- Store lecture screenshots in the `public/` folder with naming format `Lec-XX-Description.png`
+- Embed images in notes using `![description](../public/filename.png)`
 
 ## File structure
 - [README.md](../README.md): Hub/index page with the roadmap
 - [NOTES_GUIDE.md](../NOTES_GUIDE.md): Template and style rules for new notes
 - [notes/](../notes/): All video-wise topic notes
+- [public/](../public/): Lecture screenshots and reference images
 
 ## Structure for each new note
 Follow the template in [NOTES_GUIDE.md](../NOTES_GUIDE.md):

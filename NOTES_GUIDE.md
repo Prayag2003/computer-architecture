@@ -19,6 +19,9 @@ Use this structure when creating a new note. Each note should focus on one video
 ## Core Concept
 (Main explanation. Use mermaid diagrams and tables here.)
 
+## Reference Diagram
+(Optional. If a lecture screenshot exists in `public/`, embed it with `![description](../public/filename.png)`)
+
 ## How it works
 (Step by step breakdown. Use a mermaid flowchart to show the process.)
 
@@ -54,6 +57,7 @@ Use this structure when creating a new note. Each note should focus on one video
 8. **One diagram minimum** per note
 9. **No repeated intro content** across notes. The intro lives in `01-introduction-to-coa.md`
 10. **Keep it exam friendly**. Summaries and revision points at the end of every note
+11. **Lecture screenshots** go in the `public/` folder. Embed them with `![description](../public/filename.png)`. Use naming format `Lec-XX-Description.png`
 
 ## Quality checklist
 
@@ -68,3 +72,4 @@ Before finishing a note, verify:
 - [ ] No em dashes in the entire file
 - [ ] No LaTeX notation
 - [ ] Language is simple and clear
+- [ ] Lecture screenshots (if any) are in `public/` and embedded correctly
