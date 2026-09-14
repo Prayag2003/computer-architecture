@@ -46,3 +46,14 @@ Follow the template in [NOTES_GUIDE.md](../NOTES_GUIDE.md):
 - Simple language with accurate technical terms
 - Summary and revision points present
 - Useful for quick revision before exams
+
+## Git commit conventions
+- Do not use `git add .`. Stage files individually or by logical group
+- Commit per topic or logical change, not everything in one go
+- Commit message format:
+  - New notes: `feat(topic-name): Add notes on [topic description]`
+  - Config/docs updates: `docs: [what changed]`
+- Examples:
+  - `feat(common-bus): Add notes on common bus system using multiplexers`
+  - `feat(basic-computer): Add notes on basic computer architecture with lecture diagrams`
+  - `docs: Update roadmap, notes guide, and instructions with image support`
