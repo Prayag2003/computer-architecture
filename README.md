@@ -28,7 +28,7 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | 1 | Introduction to COA | [01-introduction-to-coa.md](notes/01-introduction-to-coa.md) |
 | 2 | Von Neumann Architecture and Stored Program | [02-von-neumann.md](notes/02-von-neumann.md) |
 | 3 | General Purpose Registers | [03-registers.md](notes/03-registers.md) |
-| 4 | Instruction Cycle | Coming soon |
+| 4 | Types of System Buses | [04-system-buses.md](notes/04-system-buses.md) |
 | 5 | Instruction Format and Addressing Modes | Coming soon |
 | 6 | Computer Instructions and Instruction Types | Coming soon |
 | 7 | Timing and Control | Coming soon |
@@ -55,6 +55,8 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 | Von Neumann Bottleneck | Shared bus limits speed | Video 2 |
 | Register sizes | Depends on what they hold (address, data, or character) | Video 3 |
 | Instruction format | I bit + opcode + address | Video 3 |
+| System buses | Address (where), Data (what), Control (how) | Video 4 |
+| Address bus capacity | 2^k locations for k-bit address bus | Video 4 |
 
 ## Reference list
 
