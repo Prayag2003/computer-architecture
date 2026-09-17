@@ -1,4 +1,4 @@
-# Video 2: Von Neumann Architecture and Stored Program Concept
+# 2: Von Neumann Architecture and Stored Program Concept
 
 ## Why this matters
 

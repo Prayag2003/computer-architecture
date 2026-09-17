@@ -1,4 +1,4 @@
-# Video 1: Introduction to Computer Architecture and Organization
+# 1: Introduction to Computer Architecture and Organization
 
 ## Why this matters
 

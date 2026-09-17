@@ -11,7 +11,7 @@ Use this structure when creating a new note. Each note should focus on one video
 ## Template
 
 ```markdown
-# Video X: [Topic Title]
+# X: [Topic Title]
 
 ## Why this matters
 (1-2 lines connecting this topic to the big picture of COA. Why should you care?)

@@ -21,7 +21,7 @@ A computer takes input, processes it in the CPU, stores data in memory when need
 3. Use the **Quick Revision** section at the bottom of each note for last-minute exam prep
 4. Follow [NOTES_GUIDE.md](NOTES_GUIDE.md) when creating a new note
 
-## Video-wise Roadmap
+## Roadmap
 
 | Video | Topic | Note |
 |-------|-------|------|

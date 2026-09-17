@@ -1,4 +1,4 @@
-# Video 3: General Purpose Registers in Computer Architecture
+# 3: General Purpose Registers in Computer Architecture
 
 ## Why this matters
 
