@@ -1,4 +1,4 @@
-# Video 9: Arithmetic Instructions (Data Manipulation)
+# 9: Arithmetic Instructions (Data Manipulation)
 
 ## Why this matters
 

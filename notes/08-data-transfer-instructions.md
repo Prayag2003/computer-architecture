@@ -1,4 +1,4 @@
-# Video 8: Data Transfer Instructions
+# 8: Data Transfer Instructions
 
 ## Why this matters
 

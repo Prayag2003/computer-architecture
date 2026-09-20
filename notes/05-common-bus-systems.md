@@ -1,4 +1,4 @@
-# Video 5: Common Bus System Using Multiplexers
+# 5: Common Bus System Using Multiplexers
 
 ## Why this matters
 

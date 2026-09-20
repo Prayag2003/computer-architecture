@@ -1,4 +1,4 @@
-# Video 7: Types of Instructions in a General Purpose Computer
+# 7: Types of Instructions in a General Purpose Computer
 
 ## Why this matters
 

@@ -1,4 +1,4 @@
-# Video 4: Types of System Buses (Address, Data, and Control)
+# 4: Types of System Buses (Address, Data, and Control)
 
 ## Why this matters
 
